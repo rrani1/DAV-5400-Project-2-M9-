@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Albums</title>
+</head>
+<body>
+	<table>
+		<thead>
+			<tr>
+				<th>Album Title</th>
+				<th>Artist</th>
+				<th>Year</th>
+				<th>Tracks</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Thriller</td>
+				<td>Michael Jackson</td>
+				<td>1982</td>
+				<td>Wanna Be Startin' Somethin', Thriller, Beat It, Billie Jean, Human Nature</td>
+			</tr>
+			<tr>
+				<td>The Dark Side of the Moon</td>
+				<td>Pink Floyd</td>
+				<td>1973</td>
+				<td>Speak to Me, Breathe, On the Run, Time, The Great Gig in the Sky</td>
+			</tr>
+			<tr>
+				<td>Back in Black</td>
+				<td>AC/DC</td>
+				<td>1980</td>
+				<td>Hells Bells, Shoot to Thrill, Back in Black, You Shook Me All Night Long, Rock and Roll Ain't Noise Pollution</td>
+			</tr>
+		</tbody>
+	</table>
+</body>
+</html>
