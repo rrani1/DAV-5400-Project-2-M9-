@@ -1,0 +1,25 @@
+{
+	"albums": [
+		{
+			"title": "Abbey Road",
+			"artist": "The Beatles",
+			"genre": "Rock",
+			"year": 1969,
+			"duration": "47:00"
+		},
+		{
+			"title": "Thriller",
+			"artist": "Michael Jackson",
+			"genre": "Pop",
+			"year": 1982,
+			"duration": "42:19"
+		},
+		{
+			"title": "The Dark Side of the Moon",
+			"artist": "Pink Floyd",
+			"genre": "Progressive rock",
+			"year": 1973,
+			"duration": "42:49"
+		}
+	]
+}
