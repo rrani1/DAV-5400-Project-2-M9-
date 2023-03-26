@@ -1,34 +1,40 @@
 {
     "albums": [
         {
-            "album_title": "Thriller",
-            "artist": "Michael Jackson",
-            "year": 1982,
+            "artist": "BTS",
+            "album_title": "Love Yourself: Tear",
+            "year": 2018,
             "tracks": [
-                "Wanna Be Startin' Somethin'",
-                "Thriller",
-                "Beat It",
-                "Billie Jean",
-                "Human Nature"
+                "Singularity",
+                "FAKE LOVE",
+                "The Truth Untold",
+                "Paradise",
+                "Love Maze"
             ]
         },
         {
-            "album_title": "The Dark Side of the Moon",
-            "artist": "Pink Floyd",
-            "year": 1973,
+            "artist": "Anirudh",
+            "album_title": "Master",
+            "year": 2021,
             "tracks": [
-                "Speak to Me",
-                "Breathe",
-                "On the Run",
-                "Time",
-                "The Great Gig in the Sky"
+                "Quit Pannuda",
+                "Andha Kanna Paathaakaa",
+                "Vaanil Irul",
+                "Master the Blaster",
+                "Polakatum Para Para"
             ]
         },
         {
-            "album_title": "Back in Black",
-            "artist": "AC/DC",
-            "year": 1980,
+            "artist": "Taylor Swift",
+            "album_title": "1989",
+            "year": 2014,
             "tracks": [
-                "Hells Bells",
-                "Shoot to Thrill",
-                "Back in"
+                "Welcome to New York",
+                "Blank Space",
+                "Style",
+                "Out of the Woods",
+                "All You Had to Do Was Stay"
+            ]
+        }
+    ]
+}
